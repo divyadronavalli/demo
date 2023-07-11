@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T13:49:39.536Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tJHy3LlOZ_QQ1PYT3cLR" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T15:14:58.034Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="23HQV_RCbP-k4Ccfc44r" version="21.6.1" type="github">
   <diagram name="Page-1" id="eaPRT_ml55ByJp7L_sPj">
     <mxGraphModel dx="2021" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,7 +144,8 @@
               <mxPoint x="500" y="677.5" />
               <mxPoint x="840" y="677.5" />
               <mxPoint x="839" y="522" />
-              <mxPoint x="840" y="382.5" />
+              <mxPoint x="840" y="390" />
+              <mxPoint x="660" y="390" />
               <mxPoint x="480" y="392" />
             </Array>
           </mxGeometry>
@@ -355,6 +356,54 @@
         </mxCell>
         <mxCell id="SYDJRcQqZoQhkEUu3rmm-121" value="India Meterological department" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="920" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-122" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.558;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SYDJRcQqZoQhkEUu3rmm-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="430" as="sourcePoint" />
+            <mxPoint x="500" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="360" />
+              <mxPoint x="820" y="360" />
+              <mxPoint x="820" y="240" />
+              <mxPoint x="497" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-123" value="E-CHALLAN" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="670" width="74.5" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-128" value="echallan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-129" value="---" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-130" value="Telangana sstae police" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="970" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-133" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SYDJRcQqZoQhkEUu3rmm-123" target="SYDJRcQqZoQhkEUu3rmm-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="650" as="sourcePoint" />
+            <mxPoint x="300" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-134" value="Patrolling officer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="677" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-135" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.027;entryY=0.416;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SYDJRcQqZoQhkEUu3rmm-123">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="700" as="sourcePoint" />
+            <mxPoint x="210" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-137" value="SNS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-138" value="---" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-139" value="Simple notification service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1020" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
