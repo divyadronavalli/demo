@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T07:27:03.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HSJEU5runTpigmC_9IXf" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T07:27:46.771Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-3lJ1uD1nU-L4VizAi7d" version="21.6.1" type="github">
   <diagram name="Page-1" id="eaPRT_ml55ByJp7L_sPj">
     <mxGraphModel dx="2021" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="SYDJRcQqZoQhkEUu3rmm-3" value="residents" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="410" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SYDJRcQqZoQhkEUu3rmm-4" value="SNS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-4" value="SNS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
           <mxGeometry x="-90" y="265" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SYDJRcQqZoQhkEUu3rmm-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SYDJRcQqZoQhkEUu3rmm-4" target="SYDJRcQqZoQhkEUu3rmm-3">
@@ -230,7 +230,7 @@
             <mxPoint x="290" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SYDJRcQqZoQhkEUu3rmm-85" value="Service cancellation systems" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="SYDJRcQqZoQhkEUu3rmm-85" value="Service cancellation systems" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#006666;" vertex="1" parent="1">
           <mxGeometry x="70" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SYDJRcQqZoQhkEUu3rmm-86" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SYDJRcQqZoQhkEUu3rmm-1">
